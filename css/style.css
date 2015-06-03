@@ -11,3 +11,18 @@
 	height: 700px;
   	
 }
+
+.numbered {
+	list-style: decimal;	
+}
+
+.interview {
+	margin: 0px;
+	display: inline;
+  	width: 400px;
+}
+
+.img-interview {
+	display: block;
+  	margin: auto;
+}
